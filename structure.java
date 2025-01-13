@@ -1,3 +1,5 @@
+//This is just a structure of the app don't mind it.
+
 cloudzilla-nodejs-app
 │
 ├── views
